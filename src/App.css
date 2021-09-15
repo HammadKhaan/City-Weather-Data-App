@@ -1,5 +1,18 @@
+body{
+  background-color: #4A6A81;
+  min-height: 100%;
+
+}
+
 .App {
   text-align: center;
+  background-color: #4A6A81;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
 }
 
 .App-logo {
